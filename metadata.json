@@ -2,5 +2,5 @@
   "name": "SmartPills",
   "description": "Приложение для своевременного напоминания о приёме лекарств с расчетом еженедельной статистики приемов.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
