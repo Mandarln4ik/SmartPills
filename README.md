@@ -17,11 +17,11 @@
     <tr>
       <td width="50%" align="center">
         <b>Главный экран (Дашборд)</b><br/>
-        <img src="assets/dashboard.png" width="300" alt="Главный экран SmartPills" />
+        <img src="https://github.com/user-attachments/assets/f76ff9b1-09c6-405e-9f72-f35a3bde00dc" width="300" alt="Главный экран SmartPills" />
       </td>
       <td width="50%" align="center">
         <b>Добавление лекарства</b><br/>
-        <img src="assets/add_medication.png" width="300" alt="Добавление нового курса" />
+        <img src="https://github.com/user-attachments/assets/799a6220-f926-4e27-b5cf-1bb7fece000b" width="300" alt="Добавление нового курса" />
       </td>
     </tr>
   </table>
